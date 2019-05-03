@@ -1,0 +1,17 @@
+{
+  "name": "modulos_e_testes",
+  "version": "1.0.0",
+  "description": "exercise to learm export modules and how to work with jest",
+  "main": "juros.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "walber araujo",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.7.1"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
